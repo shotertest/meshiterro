@@ -37,4 +37,3 @@ class PostImagesController < ApplicationController
   end
   
 end
-PostImage
